@@ -1,0 +1,23 @@
+body{
+    background: antiquewhite;
+    font-family: cursive;
+}
+
+#score{
+    font-size: 35px;
+    margin-left: 15px;
+}
+
+#HURRY_LOOK_AT_THE_TIME{
+    font-size: 35px;
+    float: right;
+    margin-right: 15px;
+}
+
+#sketch{
+    color: black;
+}
+
+#show_sketch{
+    float: right;
+}
